@@ -1,3 +1,1 @@
-Git is a version control system.
-Git is free software.
-Git is selected to the workspace.
+This repository contains the resources for learning the tool of Git.
