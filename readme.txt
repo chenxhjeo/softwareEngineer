@@ -1,1 +1,1 @@
-This repository contains the resources for learning the tool of Git.
+This repository contains the resources of learning the Git.
