@@ -5,17 +5,17 @@
 ## 简介
 此处为“豆豆咨询”在此开辟的一个开源学习项目，包括微信开发、Git学习、ThinkPHP等内容。
 
-## 微信开发与应用系列文章
+## 一、微信开发与应用系列文章
 1. [创建微信公众号](http://blog.csdn.net/u013487761/article/details/67630610)
 
 持续更新中...
 
-## ThinkPHP学习系列文章
+## 二、ThinkPHP学习系列文章
 1. [ThinkPHP环境安装及简单例子](http://blog.csdn.net/u013487761/article/details/66025193)
 
 持续更新中...
 
-## Git学习系列文章
+## 三、Git学习系列文章
 1. [Git安装](http://blog.csdn.net/u013487761/article/details/66968697)
 
 持续更新中...
