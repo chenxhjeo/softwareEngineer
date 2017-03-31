@@ -6,15 +6,15 @@
 此处为“豆豆咨询”在此开辟的一个开源学习项目，包括微信开发、Git学习、ThinkPHP等内容。
 
 ## 一、微信开发与应用系列文章
-1.微信实验一、创建微信公众号
+1. 微信实验一、创建微信公众号
 [CSDN->](http://blog.csdn.net/u013487761/article/details/67630610)
 [简书->](http://www.jianshu.com/p/42fdb1aa3c69)
 
-2.微信实验二、配置微信公众号
+2. 微信实验二、配置微信公众号
 [CSDN->](http://blog.csdn.net/u013487761/article/details/68058450)
 [简书->](http://www.jianshu.com/p/621d53ca73ca)
 
-3.微信实验三、微信公众号开发者PHP入门
+3. 微信实验三、微信公众号开发者PHP入门
 [CSDN->](http://blog.csdn.net/u013487761/article/details/68062780)
 [简书->](http://www.jianshu.com/p/f844c0d3f534)
 
