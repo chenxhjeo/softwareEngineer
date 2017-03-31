@@ -18,6 +18,10 @@
 [CSDN->](http://blog.csdn.net/u013487761/article/details/68062780)
 [简书->](http://www.jianshu.com/p/f844c0d3f534)
 
+4. 微信实验四、公众号微博营销推广与比较
+[CSDN->](http://blog.csdn.net/u013487761/article/details/68925691)
+[简书->](http://www.jianshu.com/p/5bb39def2877)
+
 
 持续更新中...
 
