@@ -22,6 +22,10 @@
 [CSDN->](http://blog.csdn.net/u013487761/article/details/68925691)
 [简书->](http://www.jianshu.com/p/5bb39def2877)
 
+5. 微信实验五、PHP后台0元部署
+[CSDN->](http://blog.csdn.net/u013487761/article/details/69215529)
+[简书->](http://www.jianshu.com/p/0bec3945da89)
+
 
 持续更新中...
 
