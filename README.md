@@ -1,6 +1,7 @@
 ## 链接
 - 博客：http://blog.csdn.net/u013487761   
 - github：https://github.com/chenxhjeo/softwareEngineer  
+- github CompSchool：https://github.com/CompSchool  
 
 ## 简介
 此处为“豆豆咨询”在此开辟的一个开源学习项目，包括微信开发、Git学习、ThinkPHP等内容。
