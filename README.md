@@ -79,6 +79,11 @@
 ## 三、Git学习系列文章
 1. [Git安装](http://blog.csdn.net/u013487761/article/details/66968697)
 
+## 四、弹性光网络学习系列文章
+1. 弹性光网络实验一、创建光网络请求及C++源码下载
+[CSDN->](http://blog.csdn.net/u013487761/article/details/72874599)
+[简书->](http://www.jianshu.com/p/43369542a006)
+
 持续更新中...
 
 ## 技术咨询
